@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f413cd75-d327-4414-bc9c-baac1fc6a6e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TaskManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskManager/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskManager/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskManager/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskManager/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskManager/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pizzaria/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pizzaria/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/serializers.py" afterDir="false" />
-    </list>
+    <list default="true" id="f413cd75-d327-4414-bc9c-baac1fc6a6e0" name="Changes" comment="relationalfields" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -125,10 +109,35 @@
       <workItem from="1708362455384" duration="698000" />
       <workItem from="1708421898784" duration="10799000" />
       <workItem from="1708458942368" duration="2061000" />
+      <workItem from="1708503197629" duration="345000" />
     </task>
+    <task id="LOCAL-00001" summary="relationalfields">
+      <option name="closed" value="true" />
+      <created>1708503384952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708503384952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="relationalfields" />
+    <option name="LAST_COMMIT_MESSAGE" value="relationalfields" />
   </component>
 </project>
