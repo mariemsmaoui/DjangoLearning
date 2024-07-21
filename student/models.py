@@ -1,9 +1,5 @@
 from django.db import models
 
-
-# Model Tasks 1-5
-#####################################
-
 class Teacher(models.Model):
     firstname = models.CharField(max_length=100)
     surname = models.CharField(max_length=100)

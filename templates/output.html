@@ -5,6 +5,9 @@
     <title>Title</title>
 </head>
 <body>
-
+<h1>hello {{ data }}</h1>
+{% for i in data  %}
+<div>{{ i.firstname }} -{{ i.firstname }}</div>
+    {% endfor%}
 </body>
 </html>
